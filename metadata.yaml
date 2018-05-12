@@ -1,0 +1,37 @@
+_repo: The-Three-Charters-of-the-Virginia-Company-of-LondonWith-Seven-Related-Documents--1606-1621_36181
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bemiss, Samuel Merrifield
+    alias: Bemiss, Samuel M.
+    birthdate: 1894
+    deathdate: 1966
+    gutenberg_agent_id: '44639'
+    url: http://www.gutenberg.org/2009/agents/44639
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virginia 350th Anniversary Celebration Corporation
+    alias: Corporation, Virginia 350th Anniversary Celebration
+    gutenberg_agent_id: '38120'
+    url: http://www.gutenberg.org/2009/agents/38120
+description: ''
+gutenberg_issued: '2011-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Great Britain. Laws, statutes, etc., 1603-1625 (James I)'
+- !lcc 'KD'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Sources'
+title: 'The Three Charters of the Virginia Company of London
+
+  With Seven Related Documents; 1606-1621'
+url: http://www.gutenberg.org/ebooks/36181
